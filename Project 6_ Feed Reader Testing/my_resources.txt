@@ -1,0 +1,14 @@
+Google Feed API : https://developers.google.com/feed/v1
+
+Behavior-driven development : http://en.wikipedia.org/wiki/Behavior-driven_development
+Introducing BDD : http://dannorth.net/introducing-bdd
+
+Jasmine docs : http://jasmine.github.io/2.1/introduction.html
+Jasmine GitHub page : https://github.com/jasmine/jasmine">github.com/jasmine/jasmine
+Jasmine Wikipedia page : http://en.wikipedia.org/wiki/Jasmine_%28JavaScript_framework%29
+Testing Your JavaScript with Jasmine : http://code.tutsplus.com/tutorials/testing-your-javascript-with-jasmine--net-21229
+JavaScript Testing With Jasmine : https://www.youtube.com/watch?v=Si59RlSqDQ0
+
+'JavaScript Testing with Jasmine'
+by Evan Hahn
+O’Reilly, 2013
